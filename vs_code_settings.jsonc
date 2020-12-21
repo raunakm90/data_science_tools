@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vs-seti",
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.settings.editor": "json",
+    "terminal.integrated.fontFamily": "Cascadia Code PL",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, Cascadia Code, Cascadia Mono, Cascadia Code PL, Cascadia Mono PL",
+    "editor.formatOnSave": true,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "python.pythonPath": "C:\\Users\\rauna\\miniconda3\\python.exe",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "todo-tree.tree.showScanModeButton": false,
+    "python.languageServer": "Pylance",
+    "workbench.editor.enablePreview": false,
+}
