@@ -40,8 +40,10 @@ conda activate datascience
 
 `conda` can be used to export an existing enviroment dependencies and generate a yaml file.
 
+> To avoid hardcoding build info for each package use the --no-builds option when exporting
+
 ```bash
-cond env export > environment.yml
+cond env export --no-builds > environment.yml
 ```
 
 Other frequently used commands -
