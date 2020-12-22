@@ -14,8 +14,6 @@ dependencies:
 - cython
 - dask
 - feather-format
-- glmnet
-- h2o
 - ipython
 - ipywidgets
 - jinja2
@@ -23,7 +21,6 @@ dependencies:
 - jsonschema
 - jupyter
 - libffi
-- libgfortran
 - libtiff
 - libxml2
 - matplotlib
@@ -40,7 +37,7 @@ dependencies:
 - pyarrow
 - pycrypto
 - pytest
-- python=3.7.6
+- python
 - pyyaml
 - requests
 - s3fs
@@ -49,14 +46,11 @@ dependencies:
 - scikit-learn
 - statsmodels
 - urllib3
-- xgboost
 - pip:
-  - civis
-  - civisml-extensions
   - dropbox
   - ftputil
-  - muffnn
   - pubnub
   - pysftp
   - requests-toolbelt
   - tensorflow
+  - xgboost
