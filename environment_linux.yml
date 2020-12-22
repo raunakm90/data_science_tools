@@ -247,4 +247,3 @@ dependencies:
     - termcolor==1.1.0
     - werkzeug==1.0.1
     - wrapt==1.12.1
-prefix: /home/raunak/miniconda3/envs/datascience
