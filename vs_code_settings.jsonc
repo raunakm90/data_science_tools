@@ -18,4 +18,8 @@
     "todo-tree.tree.showScanModeButton": false,
     "python.languageServer": "Pylance",
     "workbench.editor.enablePreview": false,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true
 }
